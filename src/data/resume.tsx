@@ -231,7 +231,7 @@ export const DATA = {
         //   icon: <Icons.github className="size-3" />,
         // },
       ],
-      image: "/bridgingAfrika.png",
+      image: "/bridge-afrika.png",
     },
     {
       title: "Eagle Ecommerce",
