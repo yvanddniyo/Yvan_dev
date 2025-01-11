@@ -25,7 +25,8 @@ export const DATA = {
     "Docker",
     "Sequelize",
     "Tailwind CSS",
-    "C++",
+    "AWS",
+    "React Query",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -108,7 +109,7 @@ export const DATA = {
       href: "https://upwork.com",
       badges: [],
       location: "Remote",
-      title: "Software Engineer",
+      title: "Software Engineer Freelancer",
       logoUrl: "/upwork-logo.png",
       start: "Jun 2023",
       end: "Feb 2024",
