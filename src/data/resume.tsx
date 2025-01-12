@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Yvan",
   initials: "YV",
-  url: "https://dillion.io",
+  // url: "https://dillion.io",
   location: "Kigali, RW",
   locationLink: "https://www.google.com/maps/place/kigali",
   description:
@@ -238,7 +238,7 @@ export const DATA = {
       href: "https://eagles-ec-fe-staging.vercel.app/",
       active: true,
       description:
-        "Built a full-stack e-commerce platform during Andela's Technical Leadership Program. Features include product management, shopping cart, user authentication, and order processing",
+        "Built a full-stack e-commerce platform during Andela's Technical Leadership Program. Features include product management, shopping cart, user authentication, and order processing.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -265,8 +265,8 @@ export const DATA = {
       href: "https://youtube-clone-nu-hazel.vercel.app/",
       active: true,
       description:
-        "Developed an simple youtube clone using their api to integrate to master frontend arts which allow me to fetch videos and display them on the page and blazingly fast",
-      technologies: ["React", "Javascript", "TailwindCSS"],
+        "Developed an simple youtube clone using their api to integrate to master frontend arts which allow me to fetch videos and display them on the page and blazingly fast.",
+      technologies: ["React", "Javascript", "TailwindCSS", "RapidAPI"],
       links: [
         {
           type: "Website",
